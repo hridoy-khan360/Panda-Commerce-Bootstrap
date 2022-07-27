@@ -1,0 +1,8 @@
+.new-bg-info {
+  background-color: #fceae8;
+}
+
+.new-button {
+  color: white;
+  background-image: linear-gradient(to bottom, #ff589b 0%, #ff136f 100%);
+}
